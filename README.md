@@ -17,7 +17,7 @@ To set up the Laptop Price Predictor on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/laptop-price-predictor.git
+   git clone https://github.com/vinod1543/laptop-price-predictor.git
    cd laptop-price-predictor
    ```
 
